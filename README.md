@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DavidSpurlock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 I like tacos and chorro's but not flan
+- 👀 I’m interested in "spending 30 minutes a day learning something new"
+- 🌱 I’m currently learning VS suite ffor InfoSec and how to publish web apps Google Developers & GitHub
+- 💞️ I’m looking to collaborate on Security Gadgets!!! 
+- 📫 How to reach me on my communication device. 
 
 <!---
 DavidSpurlock/DavidSpurlock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
